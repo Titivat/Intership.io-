@@ -1,7 +1,7 @@
 # Intership.io
 
 Titivat auetumrongsawat <br />
-61090041@gmail.com <br />
+61090041@kmitl.ac.th <br />
 0818365352 <br />
 
 ## Sorting Acronyms
