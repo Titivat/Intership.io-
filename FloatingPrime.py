@@ -25,7 +25,7 @@ def moveDecimal( num ):
     if numberOfDecimalPlace > 12:
         return None
     
-    for i in range( numberOfDecimalPlace ):
+    for _ in range( 3 ):
         num *= 10
         checkPrime = isPrime( num )
         
